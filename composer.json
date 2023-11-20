@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\Wrong\\" : "wrong/src/",
+            "DesignPattern\\Right\\" : "right/src/"
+        }
+    }
+}
